@@ -1,0 +1,10 @@
+debug/
+release/
+binary/
+do_not_commit/
+.vscode/
+
+target/
+
+*.lock
+.DS_Store
